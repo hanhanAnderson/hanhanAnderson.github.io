@@ -35,3 +35,8 @@ jobs:
       with:
         folder: _site
 
+    - name: Fix Permission
+        run: |
+          chmod a+x bin/*
+          git cimmmit -am "add exectue permissioin to bin/deploy"
+
