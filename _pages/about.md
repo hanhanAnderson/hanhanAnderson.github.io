@@ -2,24 +2,40 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <span style="color:black"> Life is hard. But it does get easier everyday if you keep trying.</span> <span style="color:white"> No. Life is easy, you suck.</span>
+
+# Ph.D. Student at <a href='https://www.gwu.edu/'>the George Washington University</a>.  
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: 2.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  
+    <p> hanhan@gwu.edu </p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-------------------Testing Text-----------------
+    
+
+## Hi! 👋 
+
+This is Hanhan, currently a 4-th year Ph.D student at the department of [ECE](https://www.ece.seas.gwu.edu/), [the George Washington University](https://www.gwu.edu/) advised by [Prof.Tian Lan](https://www2.seas.gwu.edu/~tlan/) and worked in the Lab for Intelligent Networking and Computing. I'm interested in **reinforcement learing**, **federated learning** and **generative models**. 
+
+Specifically my past research includes value function factorization based multi-agent reinforcement learning algorithms, heterogeneous distributed learning algorithms and optimization, software security and offline-reinforcement learing via sequence generative modeling.
+
+[I'm on the job market! Please feel free to contact me if you think I'm a good fit for a position you know, thank you!](#)
+
+
+
+<!-- ------------------Testing Text-----------------
+
+# <p>800 22nd St NW, Washington, DC 20052</p>
 
 Random Text Testing
 
@@ -29,4 +45,4 @@ Write your biography here. Tell the world about yourself. Link to your favorite 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
