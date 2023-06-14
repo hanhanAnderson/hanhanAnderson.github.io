@@ -8,7 +8,7 @@ subtitle: <span style="color:black"> Life is hard. But it does get easier everyd
 
 profile:
   align: left
-  image: 2.jpg
+  image: 132.jpeg
   image_circular: false # crops the image to make it circular
   address: >
   

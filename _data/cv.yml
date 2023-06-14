@@ -9,17 +9,14 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. Student
+    - title: Ph.D. Student in Electrical and Computer Engineering
       institution: the George Washington University
-      year: 2024
+      year: 2024 (expected)
       description:
         - Reinforcement Learning
         - Federated Learning
         - Generative Models
         - Cyber Security 
-          # contents:
-          #   - Sub-description 1.
-          #   - Sub-description 2.
     # - title: Federal teaching diploma
     #   institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
     #   year: 1900
@@ -81,30 +78,42 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Multi-Agent Reinforcement Learning
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Proposed a framework using deep variational information bottleneck method as assisted information aiding global value function factorization in multi-agent reinforcement learning. 
+        - Evaluated the proposed method on the StarCraft II challenge and demonstrated a substantial performance improvement over the state-of-the-art algorithms by over 10% and published in NeurIPS.
+    - title: Optimizations in Distributed Learning
       items:
-        - Description 1.
-        - Description 2.
+        - Proposed an optimization algorithm and conducted convergence analysis on Federated Learning with heterogeneous local clients. 
+        - Validated the proposed theory on several datasets and provided remarks on designing algorithms of heterogeneous federated learning. 
+        - The work is accepted at FL-NeurIPS 2022 for oral presentation (~5%).
+    - title: Cyber and Software Security
+      items: 
+      - Conducted software security testing using {AFL}-based fuzzing tools on communication protocols like SSL and proposed a machine-learning-based privacy-preserving app for Android using the Xposed framework. 
+      - Studied the occurrence of concurrent bugs in JavaScript inside the WebKit engine, and proposed a framework that generates critical conditions to promote the reproduction of concurrency-related bugs within limited execution overhead, the work is accepted at CCS FEAST 2020.
 
 - title: Awards and Honors
   type: time_table
   contents:
     - title:
       # institution: the George Washington University
-      year: 2023
+      year: 2022
       description:
-        - IEEE 2
-        - IEEE 3
+        - NeurIPS Scholar Award
 
     - title:
       # institution: the George Washington University
-      year: 2022
+      year: 2021
       description:
-        - IEEE 1
+        - Lin Weng Graduate Scholarship
+        - Runner Up Prize at GW New Venture Competition 
+
+    - title:
+      # institution: the George Washington University
+      year: 2019
+      description:
+        - Facebook Research Scholarship
+        - GW SEAS Graduate Ambassador
 
 - title: Services
   type: time_table
@@ -113,6 +122,6 @@
       # institution: the George Washington University
       year: Reviewer
       description:
-        - IEEE 1
-        - IEEE 2
-        - IEEE 3
+        - IEEE/ACM Transactions on Networking
+        - IEEE Transactions on Artificial Intelligence
+        - IEEE Transactions on Communications 
