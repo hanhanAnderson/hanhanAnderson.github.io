@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <span style="color:black"> Life is hard. But it does get easier everyday if you keep trying.</span> <span style="color:white"> No. Life is easy, you suck.</span>
+subtitle: <span style="color:black"> Life is hard. But it does get easier everyday if you keep trying.</span> <span style="color:rgba(0, 0, 0, 0.0)"> No. Life is easy, you suck.</span>
 
 # Ph.D. Student at <a href='https://www.gwu.edu/'>the George Washington University</a>.  
 

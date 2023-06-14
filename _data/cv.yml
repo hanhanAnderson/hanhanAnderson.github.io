@@ -1,7 +1,7 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Hanhan Zhou
     - name: Languages
       value: English, Chinese, Spanish, Japanese
@@ -80,13 +80,14 @@
   contents:
     - title: Multi-Agent Reinforcement Learning
       items: 
-        - Proposed a framework using deep variational information bottleneck method as assisted information aiding global value function factorization in multi-agent reinforcement learning. 
-        - Evaluated the proposed method on the StarCraft II challenge and demonstrated a substantial performance improvement over the state-of-the-art algorithms by over 10% and published in NeurIPS.
+        - Proposed several frameworks aiding global value function factorization in multi-agent reinforcement learning, including deep variational information bottleneck method, utlizing counterfactual assitive information and optimal prioritized experience replay. 
+        - Evaluated the proposed method on the several challenging benchmarks including StarCraft II challenge and demonstrated a substantial performance improvement.
+        - Several papers are published in NeurIPS, AAMAS and IEEE-TETCI.
     - title: Optimizations in Distributed Learning
       items:
         - Proposed an optimization algorithm and conducted convergence analysis on Federated Learning with heterogeneous local clients. 
         - Validated the proposed theory on several datasets and provided remarks on designing algorithms of heterogeneous federated learning. 
-        - The work is accepted at FL-NeurIPS 2022 for oral presentation (~5%).
+        - The initial work is accepted at FL-NeurIPS 2022 for oral presentation (~5%).
     - title: Cyber and Software Security
       items: 
       - Conducted software security testing using {AFL}-based fuzzing tools on communication protocols like SSL and proposed a machine-learning-based privacy-preserving app for Android using the Xposed framework. 
