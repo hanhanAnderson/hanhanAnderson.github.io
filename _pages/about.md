@@ -29,7 +29,7 @@ This is Hanhan, currently a 4-th year Ph.D student at the department of [ECE](ht
 
 Specifically my past research includes multi-agent reinforcement learning algorithms, heterogeneous distributed learning algorithms and optimization, software security and offline-reinforcement learing via sequence generative modeling.
 
-[I'm on the job market! Please feel free to contact me if you think I'm a good fit for a position you know, thank you!](#)
+[Please feel free to contact me if you think I'm a good fit for a position you know or would like to collaborate on research projects, thank you!](#)
 
 
 
