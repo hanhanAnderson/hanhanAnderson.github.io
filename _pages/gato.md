@@ -9,6 +9,8 @@ nav_order: 5
 
 # Meet [Márquez](https://www.instagram.com/marx_marquez_/) the cat! 
 
+## Work hard so my cat can have a better life.
+
 {% include figure.html path="./assets/img/migato/IMG_5315.jpeg" title="11" class="img-fluid" %}
 
 
