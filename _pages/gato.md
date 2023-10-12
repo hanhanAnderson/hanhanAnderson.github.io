@@ -22,3 +22,6 @@ nav_order: 5
 
 ## !
 {% include figure.html path="./assets/img/migato/IMG_5352.jpeg" title="11" class="img-fluid" %}
+
+### Work hard so my cat can live a better life.
+

@@ -123,6 +123,11 @@
       # institution: the George Washington University
       year: Reviewer
       description:
+        - Advances in Neural Information Processing Systems (NeurIPS)
+        - IEEE International Conference on Computer Communications (INFOCOM)
         - IEEE/ACM Transactions on Networking
         - IEEE Transactions on Artificial Intelligence
         - IEEE Transactions on Communications 
+        - New Frontiers in Graph Learning (GLFrontiers)
+        - Foundation Models for Decision Making (FMDM), NeurIPS Workshop
+        - Temporal Graph Learning Workshop, NeurIPS Workshop
